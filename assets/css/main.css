@@ -1167,6 +1167,8 @@ section,
   padding: 0;
   margin-bottom: 15px;
   height: 80%;
+  width:100% ;
+  object-fit: cover;
 }
 
 .menu .tab-content .menu-item h4 {
@@ -1696,6 +1698,9 @@ section,
 .gallery-block{
   img{
     height: 320px;
+    width: 100%;
+    object-fit: cover;
+
   }
 }
 .btn-app{
